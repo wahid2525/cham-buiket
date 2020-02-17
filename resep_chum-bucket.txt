@@ -2,3 +2,5 @@ bahan-bahan pembuatan chum-bucket
 1.daging ayam
 2.telur bebek
 3. sayur bayam
+4. daging ikan
+5. jeroan Ayam
